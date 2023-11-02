@@ -25,6 +25,9 @@ Welcome to the official projects recognition page of the MLDA@EEE, where we ackn
   4. Kent
   5. Andrew Ivan
 
+### You may view all MLDA@EEE Pronova Projects here:
+ **https://github.com/topics/mlda-pronova**
+
 ## How to Contribute
 
 We welcome new members to join our projects and contribute to the MLDA community. Here's how you can get started:
