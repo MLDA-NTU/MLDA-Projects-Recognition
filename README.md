@@ -24,6 +24,17 @@ Welcome to the official projects recognition page of the MLDA@EEE, where we ackn
   3. Nelsen
   4. Kent
   5. Andrew Ivan
+ 
+### I.equalcare Research
+- **Project:** [I.equalcare-Research](https://github.com/MLDA-NTU/I.equalcare-Research)
+- **Description:** Volunteer research for AI in healthcare in Singapore
+- **Members:**
+  1. Wei Junyi
+  2. Tiffany Grace Sajoto
+  3. Zheng Peirong
+  4. Song Zhuowei
+  5. Lau Kai Heng
+  6. Kim Yu Ling
 
 ### You may view all MLDA@EEE Pronova Projects here:
  **https://github.com/topics/mlda-pronova**
