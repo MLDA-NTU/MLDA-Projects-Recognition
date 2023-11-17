@@ -29,12 +29,12 @@ Welcome to the official projects recognition page of the MLDA@EEE, where we ackn
 - **Project:** [I.equalcare-Research](https://github.com/MLDA-NTU/I.equalcare-Research)
 - **Description:** Volunteer research for AI in healthcare in Singapore
 - **Members:**
-  1. Wei Junyi
-  2. Tiffany Grace Sajoto
-  3. Zheng Peirong
-  4. Song Zhuowei
-  5. Lau Kai Heng
-  6. Kim Yu Ling
+  1. Wei Junyi [WE0003YI](https://github.com/WE0003YI)
+  2. Tiffany Grace Sajoto [itmorgan](https://github.com/itmorgan)
+  3. Zheng Peirong [zhengpeirong](https://github.com/zhengpeirong)
+  4. Song Zhuowei [sooong623](https://github.com/sooong623)
+  5. Lau Kai Heng [KaiiHeng](https://github.com/KaiiHeng)
+  6. Kim Yu Ling [Kim-yl](https://github.com/Kim-yl)
 
 ### You may view all MLDA@EEE Pronova Projects here:
  **https://github.com/topics/mlda-pronova**
