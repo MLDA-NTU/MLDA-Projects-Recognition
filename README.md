@@ -1,40 +1,13 @@
 # MLDA-Projects-Recognition
-
----
-MLDA Club Contributions
----
-
-Welcome to the MLDA Club's Contributions Recognition Page! Here, we acknowledge and celebrate the valuable contributions of our members to our machine learning and data analysis projects. We deeply appreciate their dedication and expertise.
-
-Welcome to the official projects recognition page of the MLDA@EEE, where we acknowledge and celebrate the valuable contributions of past projects and achievements of our members. We deeply appreciate their dedication and expertise.
+🏆 Welcome to the official projects recognition page of MLDA@EEE! 🌟 Join us in applauding and celebrating the remarkable contributions and achievements of our members in past projects. 🎉 We express our deep appreciation for their tireless dedication and invaluable expertise. 💡
 
 ## Project Contributions
+| Project                     | Description                           | Members                                             |
+| ----------------------------| ------------------------------------- | --------------------------------------------------- |
+| Facial Door Recognition     | Facial recognition for door unlocking | Xinpei                                              |
+| Tello Fly                   | Dji drone control project             | Justin<br>Andrian<br>Nelsen<br>Kent<br>Andrew Ivan  |
+| [I.equalcare-Research](https://github.com/MLDA-NTU/I.equalcare-Research)        | Volunteer research for AI in healthcare in SG | Wei Junyi [WE0003YI](https://github.com/WE0003YI)<br>Tiffany Grace Sajoto [itmorgan](https://github.com/itmorgan)<br>Zheng Peirong [zhengpeirong](https://github.com/zhengpeirong)<br>Song Zhuowei [sooong623](https://github.com/sooong623)<br>Lau Kai Heng [KaiiHeng](https://github.com/KaiiHeng)<br>Kim Yu Ling [Kim-yl](https://github.com/Kim-yl) |
 
-### FACIAL Door Recognition
-- **Project:** FACIAL DOOR RECOGNITION
-- **Description:** Facial recognition for door unlocking
-- **Members:** Xinpei 
-
-### Tello Fly
-- **Project:** TELLO FLY
-- **Description:** Dji drone control project
-- **Members:**
-  1. Justin
-  2. Andrian
-  3. Nelsen
-  4. Kent
-  5. Andrew Ivan
- 
-### I.equalcare Research
-- **Project:** [I.equalcare-Research](https://github.com/MLDA-NTU/I.equalcare-Research)
-- **Description:** Volunteer research for AI in healthcare in Singapore
-- **Members:**
-  1. Wei Junyi [WE0003YI](https://github.com/WE0003YI)
-  2. Tiffany Grace Sajoto [itmorgan](https://github.com/itmorgan)
-  3. Zheng Peirong [zhengpeirong](https://github.com/zhengpeirong)
-  4. Song Zhuowei [sooong623](https://github.com/sooong623)
-  5. Lau Kai Heng [KaiiHeng](https://github.com/KaiiHeng)
-  6. Kim Yu Ling [Kim-yl](https://github.com/Kim-yl)
 
 ### You may view all MLDA@EEE Pronova Projects here:
  **https://github.com/topics/mlda-pronova**
