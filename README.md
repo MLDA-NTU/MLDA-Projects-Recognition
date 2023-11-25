@@ -4,9 +4,7 @@
 MLDA Club Contributions
 ---
 
-Welcome to the MLDA Club's Contributions Recognition Page! Here, we acknowledge and celebrate the valuable contributions of our members to our machine learning and data analysis projects. We deeply appreciate their dedication and expertise.
-
-Welcome to the official projects recognition page of the MLDA@EEE, where we acknowledge and celebrate the valuable contributions of past projects and achievements of our members. We deeply appreciate their dedication and expertise.
+🏆 Welcome to the official projects recognition page of MLDA@EEE! 🌟 Join us in applauding and celebrating the remarkable contributions and achievements of our members in past projects. 🎉 We express our deep appreciation for their tireless dedication and invaluable expertise. 💡
 
 ## Project Contributions
 | Project                     | Description                           | Members                                             |
