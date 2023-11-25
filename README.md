@@ -1,9 +1,4 @@
 # MLDA-Projects-Recognition
-
----
-MLDA Club Contributions
----
-
 🏆 Welcome to the official projects recognition page of MLDA@EEE! 🌟 Join us in applauding and celebrating the remarkable contributions and achievements of our members in past projects. 🎉 We express our deep appreciation for their tireless dedication and invaluable expertise. 💡
 
 ## Project Contributions
